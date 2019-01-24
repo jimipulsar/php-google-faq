@@ -2,7 +2,7 @@
 <html lang="it" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Google FAQ</title>
+    <title>Google FAQ - Domande Frequenti</title>
     <link rel="stylesheet" href="css/app.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
   </head>
@@ -14,7 +14,7 @@
           <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" alt="">
         </div>
         <div class="text-logo">
-          <h2>Privacy & Terms</h2>
+          <h2>Privacy e termini</h2>
         </div>
       </div>
     </div>
@@ -22,11 +22,11 @@
       <div class="menu">
         <div class="menu-left">
           <ul>
-            <li>Overview</li>
-            <li>Privacy Policy</li>
-            <li>Terms of Service</li>
-            <li>Technologies</li>
-            <li class="blue">FAQ</li>
+            <li>Introduzione</li>
+            <li>Norme sulla privacy</li>
+            <li>Termini di servizio</li>
+            <li>Tecnologie</li>
+            <li class="blue">Domande frequenti</li>
           </ul>
         </div>
         <div class="menu-right">
