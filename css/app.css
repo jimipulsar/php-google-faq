@@ -11,20 +11,19 @@
 }
 
 .container-header .only-logo {
-  width: 98%;
-  height: 100%;
+  width: 100%;
   margin: 0 auto;
 }
 
 .container-header .only-logo .logo {
   float: left;
-  height: 100%;
-  line-height: 80px;
 }
 
 .container-header .only-logo .logo img {
-  height: 30px;
-  margin-right: 10px;
+  height: 48px;
+  margin-right: 25px;
+  padding-top: 10px;
+  margin-left: 20px;
 }
 
 .container-header .only-logo .text-logo h2 {
@@ -33,26 +32,25 @@
   float: left;
   color: #5f6368;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .container-menu {
   width: 100%;
-  height: 30px;
-  margin-bottom: 100px;
+  height: 31px;
 }
 
 .container-menu .menu {
   width: 100%;
-  padding: 0 15px;
-  height: 30px;
+  padding: 0px 25px;
+  height: 32px;
   margin: 0 auto;
   border-bottom: 1px solid lightgrey;
 }
 
 .container-menu .menu .menu-left {
   float: left;
-  width: 50%;
+  width: 55%;
 }
 
 .container-menu .menu .menu-left ul {
@@ -62,17 +60,19 @@
 .container-menu .menu .menu-left ul li {
   display: inline-block;
   font-size: 15px;
-  margin-right: 25px;
+  margin-right: 42px;
+  color: #6b6b6b;
+  font-weight: 600;
 }
 
 .container-menu .menu .menu-left ul li.blue {
-  color: blue;
-  border-bottom: 2px solid blue;
+  color: #3367d6;
+  border-bottom: 2px solid #3367d6;
   line-height: 25px;
 }
 
 .container-menu .menu .menu-right {
-  width: 50%;
+  width: 36%;
   float: right;
 }
 
@@ -90,6 +90,7 @@
   width: 65%;
   height: 100%;
   margin: auto;
+  padding-top: 67px;
 }
 
 .container-faq .faq h2 {

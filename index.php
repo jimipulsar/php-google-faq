@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
   </head>
   <body>
-    <?php include 'data.php'; ?>
+    <?php include 'data.php' ?>
     <div class="container-header">
       <div class="only-logo">
         <div class="logo">
